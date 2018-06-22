@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {},
+    "context": {
+      "type": "string"
+    },
+    "publicPath": {},
+    "outputPath": {},
+    "useRelativePath": {
+      "type": "boolean"
+    },
+    "emitFile": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": true
+}
